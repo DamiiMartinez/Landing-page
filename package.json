@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "landing-page",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
